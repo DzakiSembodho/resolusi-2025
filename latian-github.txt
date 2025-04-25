@@ -1,3 +1,4 @@
 resolusi belajar
 - mahir dan menguasai github
 - mahir dan menguasai terraform
+- pass aws sysops exam
