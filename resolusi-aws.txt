@@ -1,4 +1,4 @@
 RESOLUSI-AWS-2025
 - Sysops
 - Devops
-- terraform
+- terraform renewal certification
