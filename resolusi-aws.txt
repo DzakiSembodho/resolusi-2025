@@ -2,4 +2,5 @@ RESOLUSI-AWS-2025
 - Sysops
 - Devops
 - terraform renewal certification
+- belajar terraform import
 - belajar terraform dan strukturnya
