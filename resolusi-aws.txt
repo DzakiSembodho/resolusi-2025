@@ -1,0 +1,3 @@
+RESOLUSI-AWS-2025
+- Sysops
+- Devops
