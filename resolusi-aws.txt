@@ -4,3 +4,5 @@ RESOLUSI-AWS-2025
 - terraform renewal certification
 - belajar terraform import
 - belajar terraform dan strukturnya
+- belajar untuk SAP di 2025
+- belajar RHCA
